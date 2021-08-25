@@ -6,3 +6,9 @@
 # i am doing is right in next class
 
 print('Hey')
+
+m = 2
+e = 7.5
+x = e ** 2 + m * 5
+
+print(x)
