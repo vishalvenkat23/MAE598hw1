@@ -1,14 +1,7 @@
-# checking if the git works
+# HW 1 solution
 
-# trying to check if the changes show up on git
+from scipy.optimize import minimize
 
-# I assume i got the hang of using Git by now but should see if what
-# i am doing is right in next class
+fun = lambda x: (x[0]-x[1])**2 + (x[1] + x[2] - 2)**2 + (x[3] - 1)**2 + (x[4] - 1)**2
 
-print('Hey')
-
-m = 2
-e = 7.5
-x = e ** 2 + m * 5
-
-print(x)
+cons = ({})
