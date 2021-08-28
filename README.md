@@ -1,3 +1,3 @@
 # Design Optimization Fall 2021
-HW problem defination repo
-Course repo for MAE598/494 2021 Fall
+Homework 1 solution
+I have used 2 initial guesses.
